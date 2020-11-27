@@ -8,3 +8,5 @@ Our toy implementation is not meant to be secure or optimized for efficiency. We
 
 ## How to run
 The rlwe_he_scheme_updated.py file contains the algorithms of the HE scheme. You can run main.py to play with computing on encrypted data. Have fun! :smile:
+
+The ``numpy`` Python package is required, if missing it can be installed using ``pip install --user -r requirements.txt``.
